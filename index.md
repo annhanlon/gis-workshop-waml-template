@@ -36,7 +36,7 @@ In addition to be a protocol/set of standards, IIIF is an open source community 
 
 ### UWM Digital Collections
 
-<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="http://universalviewer.io/uv.html?manifest=https://collections.lib.uwm.edu/iiif/info/celestial/224/manifest.json"></iframe>
+<iframe src="http://universalviewer.io/uv.html?manifest=https://collections.lib.uwm.edu/iiif/info/celestial/224/manifest.json"></iframe>
 
 
 ### Workshop Slides
