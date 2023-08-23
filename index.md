@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # IIIF Resources: Art History
 <img src="assets/images/iiif_notext.png" width="200">
-____
+
 
 ### Contact
 
@@ -22,7 +22,7 @@ University of Wisconsin-Milwaukee Libraries
 [chen232@uwm.edu](mailto:chen232@uwm.edu)
 
 
-- Optionally, a GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform. This is only necessary if you'd like to use [Juncture](https://labs.jstor.org/projects/juncture/) and could come in handy for other purposes, too.
+- Optionally, you may want to create a GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform. This is only necessary if you'd like to use [Juncture](https://labs.jstor.org/projects/juncture/) and could come in handy for other purposes, too.
 {: .prereq}
 
 ### IIIF for Art History
@@ -36,7 +36,7 @@ In addition to be a protocol/set of standards, IIIF is an open source community 
 
 ### UWM Digital Collections
 
-http://universalviewer.io/uv.html?manifest=https://collections.lib.uwm.edu/iiif/info/celestial/224/manifest.json
+<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="http://universalviewer.io/uv.html?manifest=https://collections.lib.uwm.edu/iiif/info/celestial/224/manifest.json"</iframe>
 
 
 ### Workshop Slides
