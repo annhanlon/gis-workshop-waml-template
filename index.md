@@ -28,12 +28,10 @@ University of Wisconsin-Milwaukee Libraries
 ### IIIF for Art History
 
 In addition to be a protocol/set of standards, IIIF is an open source community that is actively developing lots of free and cloud-based applications that can make using images interactive and deeply engaging. This guide will focus on a selection that are well developed but possibly not perfect (as of fall 2023), and that have applications especially for Art History:
-- Juncture, from JSTOR Labs
-- Mirador viewer
+- [Juncture](https://labs.jstor.org/projects/juncture/), from JSTOR Labs
+- [Mirador viewer](https://projectmirador.org/)
 - [Exhibit](https://www.exhibit.so/)
 
-### You can view the GitHub repository for this Jekyll site at:  
-[https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template){:target="_blank"}  
 
 ### Schedule
 
