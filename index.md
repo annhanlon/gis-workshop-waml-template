@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 # IIIF Resources: Art History
-![IIIF logo](
+![IIIF logo](annhanlon/assets/images/iiif_notext.png)
 ____
 
 ### Contact
