@@ -1,7 +1,7 @@
-# GIS workshop template for WAML 2020
+# IIIF Resources: Art History 
 
-This GitHub repository holds a template for a Jekyll site hosted on GitHub pages. You can find the public facing side of the template [here](https://ubc-lib-geo.github.io/gis-workshop-waml-template/).
+IIIF - or the [International Image Interoperability Framework](https://iiif.io/) - is an open protocol to share digital objects and their metadata. It is especially well suited to high quality images, and designed to share cultural attributes like repository, artist/creator, date, medium, etc. This guide is designed to share information especially for UWM Art History faculty so that you can make the most of IIIF in your teaching and research.
 
-Want to use this template? Great! Just fork it and follow these [instructions for activating it via Pages](https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/handson/fork-repo.html).
+---
 
-The template provided here was created by [Evan Thornberry](https://github.com/ect123) (UBC) and [Phil White](https://github.com/outpw) (CU Boulder) as part of the Western Association of Map Libraries (WAML) 2020 preconference workshop on teaching with GitHub.
+This GitHub repository uses template for a Jekyll site hosted on GitHub pages. The template provided here was created by [Evan Thornberry](https://github.com/ect123) (UBC) and [Phil White](https://github.com/outpw) (CU Boulder) as part of the Western Association of Map Libraries (WAML) 2020 preconference workshop on teaching with GitHub.
