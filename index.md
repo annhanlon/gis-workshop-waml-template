@@ -31,26 +31,12 @@ In addition to be a protocol/set of standards, IIIF is an open source community 
 - [Juncture](https://labs.jstor.org/projects/juncture/), from JSTOR Labs
 - [Mirador viewer](https://projectmirador.org/)
 - [Exhibit](https://www.exhibit.so/)
+- [Storiiies](https://storiiies.cogapp.com/)
 
 
-### Schedule
+### UWM Digital Collections
 
-| Time | Content
-| --- | ---
-| 0:00 | Introductions
-| 0:05 | [Land acknowledgement](content/land-acknowledgement)
-| 0:10 | [Demystifying GitHub](content/slides/waml_github20.html){:target="_blank"} (presentation)
-| 0:50 | Break
-| 1:00 | Forking the workshop template (hands on)
-| 1:10 | A look under the hood (hands on)
-| 1:20 | Create your first page (hands on)
-| 1:30 | Add text & images to a page (hands on)
-| 1:50 | Navigation (hands on)
-| 2:00 | Example Pages
-| 2:10 | Next Steps
-| 2:15 | Wrap Up/ Q&A
-
-_Actual schedule may vary depending on group needs_  
+.ve-media https://collections.lib.uwm.edu/iiif/info/celestial/224/manifest.json
 
 
 ### Workshop Slides
