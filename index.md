@@ -3,31 +3,25 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# A Jekyll template for GIS workshops
-### WAML 2020  Preconference Workshop  
-[bit.ly/waml20git](http://bit.ly/waml20git)  
-
+# IIIF Resources: Art History
 ____
 
-### Presenters
+### Contact
 
-Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Handsome Devil  
-GIS Librarian  
-University of British Columbia Library  
-[evan.thornberry@ubc.ca](mailto:evan.thornberry@ubc.ca)  
-
+Ann Hanlon <a href='https://github.com/annhanlon' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Head, Digital Collections & Initiatives 
+University of Wisconsin-Milwaukee Libraries  
+[hanlon@uwm.edu](mailto:hanlon@uwm.edu)  
 
 
-Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Tries Hard  
-Earth, Environment & Geospatial Librarian  
-University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+
+Jie Chen <a href='https://github.com/greatfog' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Application Developer  
+University of Wisconsin-Milwaukee Libraries    
+[chen232@uwm.edu](mailto:chen232@uwm.edu)
 
 
 - A GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform.
-- Comfortable working with code/syntax.
 {: .prereq}
 
 ### Goal of this workshop
