@@ -21,7 +21,7 @@ University of Wisconsin-Milwaukee Libraries
 [chen232@uwm.edu](mailto:chen232@uwm.edu)
 
 
-- A GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform.
+- Optionally, a GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform. This is only necessary if you'd like to use [Juncture](https://labs.jstor.org/projects/juncture/) and could come in handy for other purposes, too.
 {: .prereq}
 
 ### Goal of this workshop
