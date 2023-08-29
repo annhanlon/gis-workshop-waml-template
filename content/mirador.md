@@ -12,7 +12,8 @@ The "official" Mirador how-to site can be found here: [https://iiif.io/explainer
 To try Mirador viewer, you will need the address of a "Mirador viewer instance" - that means somewhere that someone is hosting the viewer itself. 
 
 - UWM Libraries Mirador viewer - [https://liblamp.uwm.edu/IIIF/mirador3.html](https://liblamp.uwm.edu/IIIF/mirador3.html)
-- Next, you'll need to find the "manifest URL" for images you'd like to compare. 
+- Next, you'll need to find the "manifest URL" for images you'd like to compare. In the UWM Digital Collections, the manifest URL is identified in the metadata record:
+  (assets/images/iiif-manifest-uwm.jpg)
 
 
 To view IIIF resources in the Mirador viewer, you need to construct the URL of the IIIF Presentation API manifest. The following is the formula to generate the manifest URL of resources in the libraries' digital collections. 
